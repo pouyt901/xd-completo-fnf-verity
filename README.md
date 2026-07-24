@@ -1,2 +1,2 @@
-# xd-completo-fnf-verity
+# verity-fnf-xd
 xd

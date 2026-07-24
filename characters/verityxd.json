@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-191,
+				-299
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-193,
+				-308
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-201,
+				-301
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-191,
+				-299
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "verity verity idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-191,
+				-305
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "verity verity left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-196,
+				-299
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "verity verity down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-194,
+				-284
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "verity verity up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-218,
+				-281
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "verity verity right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-218,
+				-281
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "verity verity Sing Note LEFT"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/verity",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "verity",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-160,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
